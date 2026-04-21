@@ -77,7 +77,7 @@ The dataset is constructed in three steps:
 ├── evaluation/
 │   ├── evaluate.py
 │   └── metrics.py
-├── assets/
+├── fig/
 │   ├── example.jpg
 │   └── pipeline.jpg
 ```
