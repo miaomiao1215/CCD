@@ -8,6 +8,9 @@ This repository contains the official implementation and dataset construction pi
 
 ## 🔍 Overview
 
+<p align="center">
+  <img src="fig/example.jpg" width="600"/>
+</p>
 Existing image-text retrieval benchmarks primarily evaluate **coarse-grained alignment**, while overlooking **fine-grained discriminability**.
 
 To address this limitation, we introduce:
@@ -37,7 +40,9 @@ These datasets are built with **controlled contrastive differences (CCD)**, wher
 ---
 
 ## 🏗️ Dataset Construction Pipeline
-
+<p align="center">
+  <img src="fig/pipeline.jpg" width="600"/>
+</p>
 The dataset is constructed in three steps:
 
 ### Step 1: Contrastive Strategy Generation
